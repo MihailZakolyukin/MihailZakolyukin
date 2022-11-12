@@ -1,4 +1,4 @@
-# Hello! My name is Mihail and i'm backend developer
+# Hello! My name is Mihail and i'm a backend developer
 ### i'm carently learning:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,7 +30,7 @@
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-#### Documentation
+#### Documentations:
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Visitors 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/MihailZakolyukin/count.svg)
