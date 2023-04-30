@@ -1,4 +1,4 @@
-# Hello! My name is Mihail and i'm a backend developer
+# Hello! My name is Mihail and i'm a Fullstack developer
 ### i'm carently learning:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
